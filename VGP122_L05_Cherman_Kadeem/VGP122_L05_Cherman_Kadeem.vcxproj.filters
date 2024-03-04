@@ -18,15 +18,24 @@
     <ClCompile Include="VGP122_L05_Cherman_Kadeem.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Question3.cpp">
+    <ClCompile Include="Q1Date.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Q1Date.cpp">
+    <ClCompile Include="Rational.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SavingsAccount.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Q1Date.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Rational.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SavingsAccount.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

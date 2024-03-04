@@ -8,7 +8,7 @@ class Q1Date {
 
 public:
     // Constructor with three parameters
-     void Date(int m, int d, int y);
+    Q1Date(int m, int d, int y);
 
    // Setters
      void setMonth(int m);

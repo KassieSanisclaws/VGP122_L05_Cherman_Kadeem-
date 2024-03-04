@@ -128,11 +128,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Q1Date.cpp" />
-    <ClCompile Include="Question3.cpp" />
+    <ClCompile Include="Rational.cpp" />
+    <ClCompile Include="SavingsAccount.cpp" />
     <ClCompile Include="VGP122_L05_Cherman_Kadeem.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Q1Date.h" />
+    <ClInclude Include="Rational.h" />
+    <ClInclude Include="SavingsAccount.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

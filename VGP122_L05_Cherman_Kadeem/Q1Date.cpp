@@ -1,7 +1,7 @@
 #include "Q1Date.h"
 #include <iostream>
 
-void Q1Date::Date(int m, int d, int y)
+ Q1Date::Q1Date(int m, int d, int y)
 {
    setMonth(m);
    day = d;
